@@ -1,0 +1,21 @@
+.title {
+  text-align: center;
+}
+
+.content {
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  padding: 15px 0 15px 0;
+  height: 10%;
+  width: 100%;
+  background-color: #ec5656;
+  color: white;
+  text-align: center;
+}
